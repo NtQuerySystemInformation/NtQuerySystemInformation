@@ -1,10 +1,13 @@
--I’m @NtQuerySystemInformation
+Hey there, this profile will be simplistic since i dont really think its necessary to do too much presentations.
 
--I’m interested in Malware Analysis and Logic Bug Exploitation
+-Im
 
--I’m currently learning C++ and x86-64 assembly language
+-I’m interested in Malware Analysis and Reverse Engineering in general
 
--I hope you find this repository interesting
+-I’m currently learning/reviewing C/C++, x86-x64, and Python. 
+
+-The quality of the code its not the best, most of the things here are experiments ive done to learn 
+more about certain things, but i hope it interests people.
 
 <!---
 NtQuerySystemInformation/NtQuerySystemInformation is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
