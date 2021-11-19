@@ -2,7 +2,7 @@ Hey there, this profile will be simplistic since i dont really think its necessa
 
 -I’m kasua02/satokon, university student.
 
--I’m interested in Malware Analysis and Reverse Engineering. 
+-I’m interested in Malware Analysis and Reverse Engineering, with a touch in automation.
       
       -Most things here are going to be scripts related to CTF or decryption scripts.
             -I have won FLARE-ON and MalwareBytes CTF this 2021, with lots of help since it was my first time :)
