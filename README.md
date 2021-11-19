@@ -4,7 +4,7 @@ Hey there, this profile will be simplistic since i dont really think its necessa
 
 -I’m interested in Malware Analysis and Reverse Engineering, with a touch in automation.
       
-      -Most things here are going to be scripts related to CTF or decryption scripts.
+      -Most things here are going to be scripts related to CTF or decryption scripts and brief system programming examples.
             -I have won FLARE-ON and MalwareBytes CTF this 2021, with lots of help since it was my first time :)
       -This is not meant to total beginners, its mostly intermediate level knowledge.
 
