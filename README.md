@@ -1,6 +1,6 @@
 Hey there, this profile will be simplistic since i dont really think its necessary to do too much presentations.
 
--I’m kasua02/satokon, university student.
+-I’m kasua02, university student.
 
 -I’m interested in Malware Analysis and Reverse Engineering, with a touch in automation.
       
