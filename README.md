@@ -5,7 +5,9 @@ Hey there, this profile will be simplistic.
 -I’m interested in Malware Analysis and Reverse Engineering, with a touch in automation, mainly program in C/C++, and Python. Soon x86-x64 with NASM.
 
 -Achievements so far:
+
             -2021 (first time and with lots of help): FLARE-ON 8 finisher, MalwareBytes CTF 2021.
+            
             -2022: Publish PoC of injection/persistance techniques and Qakbot Dll stager paper.
 
 Pending for the year (2022):
