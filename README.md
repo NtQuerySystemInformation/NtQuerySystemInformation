@@ -6,7 +6,7 @@ Hey there, this profile will be simplistic.
 
 -Achievements so far:
 
-            -2021 (first time and with lots of help): FLARE-ON 8 finisher, MalwareBytes CTF 2021.
+            -2021 (first time and with lots of help): FLARE-ON 8 finisher(satokon), MalwareBytes CTF 2021.
             
             -2022: Publish PoC of injection/persistance techniques and Qakbot Dll stager paper.
 
