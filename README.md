@@ -10,13 +10,13 @@ Hey there, this profile will be simplistic.
 
 Pending for the year (2022):
       
-   -Improvement: C/C++ reversing/IDAPython scripting/Symbolic execution. 
+            -Improvement: C/C++ reversing/IDAPython scripting/Symbolic execution. 
       
-   -C2 Emulators for Qakbot and ICEID. (Private but if you want to collaborate, PM me.)
+            -C2 Emulators for Qakbot and ICEID. (Private but if you want to collaborate, PM me.)
       
-   -Improving Windows Internals/Dev (Windows system programming experiments).
+            -Improving Windows Internals/Dev (Windows system programming experiments).
       
-   -If I have time, participate in FLARE-ON 9 and win.
+            -If I have time, participate in FLARE-ON 9 and win.
 
 -The quality of the code is not the best, mainly for learning purposes.
 <!---
