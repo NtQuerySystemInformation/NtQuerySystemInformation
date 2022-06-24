@@ -9,10 +9,14 @@ Hey there, this profile will be simplistic.
             -2022: Publish PoC of injection/persistance techniques and Qakbot Dll stager paper.
 
 Pending for the year (2022):
-      -Improvement: C/C++ reversing/IDAPython scripting/Symbolic execution. 
-      -C2 Emulators for Qakbot and ICEID. (Private but if you want to collaborate, PM me.)
-      -Improving Windows Internals/Dev (Windows system programming experiments).
-      -If I have time, participate in FLARE-ON 9 and win.
+      
+   -Improvement: C/C++ reversing/IDAPython scripting/Symbolic execution. 
+      
+   -C2 Emulators for Qakbot and ICEID. (Private but if you want to collaborate, PM me.)
+      
+   -Improving Windows Internals/Dev (Windows system programming experiments).
+      
+   -If I have time, participate in FLARE-ON 9 and win.
 
 -The quality of the code is not the best, mainly for learning purposes.
 <!---
