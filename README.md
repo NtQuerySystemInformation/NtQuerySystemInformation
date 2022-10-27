@@ -8,17 +8,14 @@ Hey there, this profile will be simplistic.
 
             -2021 (first time and with lots of help): FLARE-ON 8 finisher(satokon), MalwareBytes CTF 2021.
             
-            -2022: Publish PoC of injection/persistance techniques and Qakbot Dll stager paper.
+            -2022: Publish PoC of injection/persistance techniques and Qakbot Dll stager paper/FLARE-ON 9 finisher (kasua).
 
 Current objectives (2022):
       
-            -Improvement: C/C++ reversing/IDAPython scripting/Symbolic execution and Obfuscation.
+            -Technical training in terms of C/C++ reversing/IDAPython scripting/Symbolic execution and deobfuscation.
       
-            -C2 Emulators for Qakbot and ICEID. (Private but if you want to collaborate, PM me.)
+            -C2 Emulators for Qakbot and ICEID and System Programming experiments.
       
-            -Improving System Programming/Reversing. 
-      
-            -One last persistance technique.
             
 -The quality of the code is not the best, mainly for learning purposes.
 <!---
