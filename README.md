@@ -12,9 +12,9 @@ Hey there, this profile will be simplistic.
 
 Current objectives (2022):
       
-            -Technical training in terms of C/C++ reversing/IDAPython scripting/Symbolic execution and deobfuscation.
+            -Getting better at: Code Constructs Rev/Tooling dev/Deobfuscation.
       
-            -C2 Emulators for Qakbot and ICEID and System Programming experiments.
+            -Making more tools and design patterns.
       
             
 -The quality of the code is not the best, mainly for learning purposes.
