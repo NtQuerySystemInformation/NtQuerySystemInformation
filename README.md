@@ -12,9 +12,9 @@ Hey there, this profile will be simplistic.
 
 Current objectives (2022):
       
-            -Getting better at: Code Constructs Rev/Tooling dev/Deobfuscation.
+            -Getting better at: Tooling dev/Deobfuscation/Windows Internals.
       
-            -Making more tools and design patterns.
+            -Software Engineering: Design patterns, Programming language internals from a reversing POV (Golang, etc)
       
             
 -The quality of the code is not the best, mainly for learning purposes.
