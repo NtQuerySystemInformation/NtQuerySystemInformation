@@ -8,7 +8,7 @@ Hey there, this profile will be simplistic.
 
             -2021 (first time and with lots of help): FLARE-ON 8 finisher(satokon), MalwareBytes CTF 2021.
             
-            -2022: Publish PoC of injection/persistance techniques and Qakbot Dll stager paper/FLARE-ON 9 finisher (kasua).
+            -2022: Publish PoC of injection/persistance techniques and Qakbot Dll stager paper/FLARE-ON 9 finisher (kasua) (definetely less help than the first time).
 
 Current objectives (2022):
       
