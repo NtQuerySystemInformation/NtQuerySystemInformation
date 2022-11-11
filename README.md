@@ -2,7 +2,7 @@ Hey there, this profile will be simplistic.
 
 -I’m kasua02.
 
--I’m interested in Malware Analysis and Reverse Engineering, with a touch in automation, mainly program in C/C++, and Python. Soon x86-x64 with NASM.
+-I’m interested in Reverse Engineering. I am mainly programming in C/C++/Python.
 
 -Achievements so far:
 
@@ -17,7 +17,7 @@ Current objectives (2022):
             -Software Engineering: Design patterns, Programming language internals from a reversing POV (Golang, etc)
       
             
--The quality of the code is not the best, mainly for learning purposes.
+-The quality of the code is not the best, slowly improving.
 <!---
 NtQuerySystemInformation/NtQuerySystemInformation is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
