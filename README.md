@@ -11,6 +11,7 @@ Hey there, this profile will be simplistic.
             -2022: Publish PoC of injection/persistance techniques and Qakbot Dll stager paper/FLARE-ON 9 finisher (kasua) (definetely less help than the first time).
 
 Current objectives:
+
             -Getting better at: 
                         -Tooling dev: C2 emulation purposes mainly.
                         -Deobfuscation: VM and CF deobfuscation.
