@@ -20,6 +20,7 @@ Current objectives:
             -Software Engineering: 
                         -Design patterns.
                         -Constructs from a reversing POV (Golang, NIM, Rust)      
+                        -Algorithms/Data structures (core software dev knowledge.)
             
 -The quality of the code is not the best, slowly improving.
 
